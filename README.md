@@ -3,6 +3,7 @@ Learn to build, optimize, and interpret LLMs through the eyes of Karsh — a qui
 
 
 👋 Welcome to Karsh’s World of LLMs
+
 Hey there — this is a space where practical engineering meets deep research in the world of Large Language Models (LLMs).
 
 But you won’t be alone here.
@@ -12,6 +13,8 @@ You’ll be learning alongside Karsh, a shy but perseverant AI character — our
 This site is for LLM enthusiasts, researchers, and builders who want to go beyond surface-level prompting and really understand the systems behind today’s most powerful models.
 
 🛠️ What to Expect
+
+
 Hands-on engineering with open-source LLMs
 
 Optimization and deployment tricks (inference speed, memory, containerization)
