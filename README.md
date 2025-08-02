@@ -27,6 +27,8 @@ Explorations in transformer ablations and next-gen architectures (SSMs, Mamba, e
 All of this will be presented through technical posts, code walk-throughs, and research breakdowns — framed within Karsh’s fictional journey to make learning immersive, fun, and a bit narrative-driven.
 
 📚 Why This Exists
+
+
 Most LLM content out there is either too shallow or too academic. This space aims to strike a bridge between them — with a voice that’s technical, honest, and occasionally quirky.
 
 If you're someone who:
