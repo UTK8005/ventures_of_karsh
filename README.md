@@ -5,7 +5,7 @@ Learn to build, optimize, and interpret LLMs through the eyes of Karsh — a qui
 👋 Welcome to Karsh’s World of LLMs
 Hey there — this is a space where practical engineering meets deep research in the world of Large Language Models (LLMs).
 
-But I won’t be alone here.
+But you won’t be alone here.
 
 You’ll be learning alongside Karsh, a shy but perseverant AI character — our fictional guide and metaphor for the inner researcher in all of us. In a world full of loud devs and flashy demos, Karsh quietly builds, breaks, optimizes, and rebuilds — chasing truth, not hype.
 
